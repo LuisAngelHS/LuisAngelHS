@@ -1,5 +1,5 @@
-### Hola 👋 Mundo, soy Luis Ángel Hernández
-#### Software Developer Angular
+### Hola 👋 Mundo, soy Luis Ángel Hernández Desarrollador en Angular / Php
+#### Excelente trabajo en equipo y soluciones factibles
 Desarrollador web trabajando en proyectos como backend y frontend para sistemas creados en PHP Y Angular.
 
 
