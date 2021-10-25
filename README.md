@@ -3,6 +3,8 @@
 
 Me dedico al Desarrollo de Software trabajando en proyectos como backend y frontend para sistemas creados en PHP Y Angular ✨
 
+📊 Apasionado por la tecnología y el apredizaje 
+
 ![Software Developer Angular](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)
 
 
