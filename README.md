@@ -7,7 +7,7 @@ Desarrollador de Software trabajando en proyectos como backend y frontend para s
 
 
 👩🏻‍💻 Tecnologías:  Angular | Php | Html | JavaScript | Mysql | Bootstrap | Scrum
-<div align="center>
+<div align="center">
 ![Software Developer Angular](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)
             </div>
         
