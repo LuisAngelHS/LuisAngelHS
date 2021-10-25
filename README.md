@@ -8,7 +8,7 @@ Desarrollador de Software trabajando en proyectos como backend y frontend para s
 
 👩🏻‍💻 Tecnologías:  Angular | Php | Html | JavaScript | Mysql | Bootstrap | Scrum
 
-![Software Developer Angular](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif, style="width:20%")
+![Software Developer Angular](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)
            
         
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LuisAngelHS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luis-angel-hernandez-web-developer//)  
