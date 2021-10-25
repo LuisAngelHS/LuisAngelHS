@@ -1,7 +1,7 @@
 ### Hola 👋 Mundo, soy Luis Ángel Hernández Desarrollador Web
 #### 💪🏼 Excelente trabajo en equipo 
 
-Desarrollador de Software trabajando en proyectos como backend y frontend para sistemas creados en PHP Y Angular ✨
+Me dedico al Desarrollo de Software trabajando en proyectos como backend y frontend para sistemas creados en PHP Y Angular ✨
 
 ![Software Developer Angular](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)
 
