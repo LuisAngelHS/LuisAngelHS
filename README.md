@@ -1,7 +1,7 @@
 ### Hola 👋 Mundo, Luis Ángel Hernández Desarrollador Software
 #### 💪🏼 Excelente trabajo en equipo 
 
-Participando en proyectos como backend y frontend, creando soluciones para cálculos de nóminas, asi como experencia en sector bancario✨
+Participando en proyectos como backend y frontend, creando soluciones para cálculos de nóminas, asi como experiencia en sector bancario ✨
 
 📊 Apasionado por la tecnología y el apredizaje 
 
